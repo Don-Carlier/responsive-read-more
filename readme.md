@@ -1,6 +1,6 @@
 Mandatory html structure necessary:
 
-<blockquote class="testimonial">
+```<blockquote class="testimonial">
   <div>
     <span>
         <cite>Reviewer name</cite> 
@@ -11,4 +11,7 @@ Mandatory html structure necessary:
       <span class="more">Read more</span>
     <span class="less">Read less</span>
 </a>
-</blockquote>
+</blockquote>```
+
+For working example check:
+https://codepen.io/Don-Carlier/pen/jOEebJX
