@@ -1,3 +1,6 @@
+For working example check:
+https://codepen.io/Don-Carlier/pen/jOEebJX
+
 Mandatory html structure necessary:
 
 ```<blockquote class="testimonial">
@@ -11,7 +14,6 @@ Mandatory html structure necessary:
       <span class="more">Read more</span>
     <span class="less">Read less</span>
 </a>
-</blockquote>```
+</blockquote>
 
-For working example check:
-https://codepen.io/Don-Carlier/pen/jOEebJX
+
